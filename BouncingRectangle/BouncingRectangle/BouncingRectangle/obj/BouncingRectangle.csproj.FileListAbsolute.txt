@@ -1,0 +1,16 @@
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Form1.resources
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Properties.Resources.resources
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.csproj.GenerateResource.Cache
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.exe
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.pdb
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.exe
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.pdb
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.exe
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.pdb
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.exe
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.pdb
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Form1.resources
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Properties.Resources.resources
+C:\Users\Joe\Downloads\BouncingRectangle\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.csproj.GenerateResource.Cache

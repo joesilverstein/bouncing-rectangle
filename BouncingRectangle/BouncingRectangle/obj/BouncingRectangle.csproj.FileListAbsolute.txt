@@ -1,0 +1,32 @@
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Form1.resources
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Properties.Resources.resources
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.csproj.GenerateResource.Cache
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.exe
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.pdb
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.exe
+C:\Documents and Settings\localadmin\My Documents\Teaching\S08 PIC 10C\MISC Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Form1.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.helpDialog.resources
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.exe
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.pdb
+E:\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.exe
+E:\BouncingRectangle\BouncingRectangle\bin\Debug\BouncingRectangle.pdb
+E:\BouncingRectangle\BouncingRectangle\bin\Debug\AxInterop.WMPLib.dll
+E:\BouncingRectangle\BouncingRectangle\bin\Debug\Interop.WMPDXMLib.dll
+E:\BouncingRectangle\BouncingRectangle\bin\Debug\Interop.WMPLib.dll
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\ResolveAssemblyReference.cache
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Form1.resources
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.helpDialog.resources
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.Properties.Resources.resources
+E:\BouncingRectangle\BouncingRectangle\obj\Debug\BouncingRectangle.csproj.GenerateResource.Cache
